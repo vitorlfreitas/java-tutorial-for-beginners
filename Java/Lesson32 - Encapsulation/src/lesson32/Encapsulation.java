@@ -1,7 +1,7 @@
 package lesson32;
 
 /* Encapsulation hides or protect the internal state and attributes of an 
-object from others class. For example, our class Conta has 3 attributes, 
+object from others class. For example, our class BankAccount has 3 attributes, 
 and only way to change the values of them is through an its methods 
 (getter or setter) */
 
