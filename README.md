@@ -20,5 +20,7 @@ Once you finish this repository and get into Java concepts, please, contribute t
 ## References
 
 [Code with John Channel](https://www.youtube.com/@CodingWithJohn)
-[Java Tutoria](https://www.youtube.com/watch?v=xk4_1vDrzzo&t=14267s)
+
+[Java Tutorial](https://www.youtube.com/watch?v=xk4_1vDrzzo&t=14267s)
+
 [Java Tutorial for Beginners](https://www.youtube.com/watch?v=A74TOX803D0)
